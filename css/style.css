@@ -106,7 +106,7 @@ li {
 	display: flex;
 	gap: 131px;
 	align-items: center;
-	min-height: 65px;
+	min-height: 115px;
 }
 
 .header__logo {
@@ -249,6 +249,11 @@ li {
 
 
 	}
+
+	.header__container {
+		min-height: 65px;
+	}
+
 
 	.header__logo {
 		position: fixed
